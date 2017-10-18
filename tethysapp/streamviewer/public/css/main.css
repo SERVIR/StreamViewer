@@ -1,0 +1,23 @@
+#app-content-wrapper #app-content{
+    height: 100%;
+    /*padding-top: 60px;*/
+    /*padding-bottom: 50px;*/
+}
+
+#inner-app-content{
+    padding: 0;
+}
+.gee-attr {
+    top: 50px;
+    right: 20px;
+    width: 275px;
+    height:50px;
+    margin: 3px;
+    color:white;
+    background: rgba(0,60,136,.8);
+    border: 1px #ddd solid;
+    z-index: 999;
+}
+.gee-attr:hover {
+  background: rgba(0,60,136,.5)
+}
